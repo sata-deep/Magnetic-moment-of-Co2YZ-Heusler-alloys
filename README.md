@@ -11,9 +11,10 @@ If you are doing for example: Co2Ti0.25Mn0.75 P. Then please run:
 **Please provide M1, M2, Z, and x (separated by spaces): Ti Mn P_ 0.75**  
 the code will return the Salter-Pauling moment.  
 Then run :python Nd.py to calculate the effective number of unoccupied d-electrons in the Y-site by  
-Please provide M1, M2, and x (separated by spaces): Ti Mn 0.75  
+**Please provide M1, M2, and x (separated by spaces): Ti Mn 0.75**  
 It will return the Nd value.  
 Now you are ready to calculate the the magnetic moment by the general rule:  
-Please enter M_SP: 5.25  
+**Please enter M_SP: 5.25  
 Please enter Nd for the Y site: 5.75  
-The magnetic moment via general rule: 5.17  
+The magnetic moment via general rule: 5.17**
+Thats all.
