@@ -21,11 +21,13 @@ the code will return the Slater-Pauling moment.
 It will return the Nd value.  
 Now you are ready to calculate the the magnetic moment by the general rule  
   
-3. Run M.py for that. The inputs will look like below   
+3. Run M.py for that. The inputs and ouputs will look like below   
     
 **Please enter M_SP: 5.25  
 Please enter Nd for the Y site: 5.75  
 The magnetic moment via general rule: 5.17**   
+
+   
 <span style="color:red;">Please check atom_feature file to find out which elements require **underscore** (for example P is written as P_)</span>  
 
 Thats all.
