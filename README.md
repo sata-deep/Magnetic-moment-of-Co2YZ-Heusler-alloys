@@ -19,6 +19,6 @@ Now you are ready to calculate the the magnetic moment by the general rule
 **Please enter M_SP: 5.25  
 Please enter Nd for the Y site: 5.75  
 The magnetic moment via general rule: 5.17**   
-**<span style="color:red">Please check atom_feature file find out which elements require underscore (for example P is written as P_)</span>**  
+<font color="red">Please check atom_feature file find out which elements require underscore (for example P is written as P_)</font>  
 
 Thats all.
