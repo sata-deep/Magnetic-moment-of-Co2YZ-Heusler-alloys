@@ -16,5 +16,5 @@ It will return the Nd value.
 Now you are ready to calculate the the magnetic moment by the general rule:  
 **Please enter M_SP: 5.25  
 Please enter Nd for the Y site: 5.75  
-The magnetic moment via general rule: 5.17**
+The magnetic moment via general rule: 5.17**  
 Thats all.
