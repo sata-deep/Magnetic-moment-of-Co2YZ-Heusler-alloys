@@ -3,10 +3,10 @@ A general rule for predicting the magnetic moment of Cobalt-based Heusler compou
 This repository corresponds to the work:  
 
 ***Journal of Magnetism and Magnetic Materials 563 (2022) 169818***  
-To calculate the General moment given by the formula:
+To calculate the general moment given by the formula:
 ![image](https://user-images.githubusercontent.com/27854932/232724701-ac4d3f50-8299-4521-9ce8-77d759c863ff.png)
 
-one needs to calculate the magnetic moment via Slater-Pauling rule.  
+one needs to calculate the magnetic moment via Slater-Pauling rule first for a Co2M1<ub>1-x</sub>M2<sub>x</sub>Z compound.   
 This is done by issuing the command: python M_SP.py  
 If you are doing for example: Co2Ti0.25Mn0.75 P. Then please run:  
 **Please provide M1, M2, Z, and x (separated by spaces): Ti Mn P_ 0.75**  
