@@ -1,5 +1,5 @@
 #This code calculates the M_SP for the Co2M1_(1-x)M2_xZ 
-# in the Y-site of the Co2YZ compound
+# 
 #Suppose if you are doing Co2Mn0.5Ni0.5Sb
 # Please enter Mn Ni Sb 0.5
 #Or  if you are doing Co2Fe0.75Ni0.25Sb
