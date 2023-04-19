@@ -1,5 +1,6 @@
 #This code calculates the M_SP for the Co2M1_(1-x)M2_xZ 
-# 
+# Uses the standard definition:
+# M_SP=N-24 (for Co2YZ compounds, N is the total number of valence electrons)
 #Suppose if you are doing Co2Mn0.5Ni0.5Sb
 # Please enter Mn Ni Sb 0.5
 #Or  if you are doing Co2Fe0.75Ni0.25Sb
