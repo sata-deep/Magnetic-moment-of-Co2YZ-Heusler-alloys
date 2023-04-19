@@ -1,8 +1,9 @@
 # Magnetic-moment-of-Co2YZ-Heusler-alloys
-A general rule for predicting the magnetic moment of Cobalt-based Heusler compounds using compressed sensing and density functional theory.
-This repository corresponds to the work:  
+This code uses a general rule for predicting the magnetic moment of Cobalt-based Heusler compounds using compressed sensing and density functional theory.
+The repository corresponds to the work:  
 
-***Journal of Magnetism and Magnetic Materials 563 (2022) 169818***  
+***Journal of Magnetism and Magnetic Materials 563 (2022) 169818***   
+https://www.sciencedirect.com/science/article/abs/pii/S0304885322007119
 
 To calculate the general moment given by the formula:
 ![image](https://user-images.githubusercontent.com/27854932/232724701-ac4d3f50-8299-4521-9ce8-77d759c863ff.png)
