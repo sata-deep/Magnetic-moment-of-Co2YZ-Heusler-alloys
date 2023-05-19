@@ -8,11 +8,10 @@ https://www.sciencedirect.com/science/article/abs/pii/S0304885322007119
 To calculate the general moment given by the formula:
 ![image](https://user-images.githubusercontent.com/27854932/232724701-ac4d3f50-8299-4521-9ce8-77d759c863ff.png)
 
-One needs to calculate the magnetic moment via Slater-Pauling rule first for a Co<sub>2</sub>M1<sub>1-x</sub>M2<sub>x</sub>Z compound.    
-     
-1.This is done by issuing the command: python M_SP.py  
+1. One needs to calculate the magnetic moment via Slater-Pauling rule first for a Co<sub>2</sub>M1<sub>1-x</sub>M2<sub>x</sub>Z compound.    
+  This is done by issuing the command: python M_SP.py  
    
-If you are doing for example: Co2Ti0.25Mn0.75 P. Then please provide the input as:  
+If you are doing for example: Co2Ti0.25Mn0.75 P. Then the input and output would look like as:  
 **Please provide M1, M2, Z, and x (separated by spaces): Ti Mn P_ 0.75**  
 the code will return the Slater-Pauling moment.  
    
